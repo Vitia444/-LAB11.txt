@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version2
+=======
+Version3
+>>>>>>> Project3
